@@ -3,7 +3,7 @@
   "description": "Interact with the Chargify API v1",
   "license": "MIT",
   "type": "library",
-  "homepage": "https://github.com/johannez/chargify",
+  "homepage": "https://github.com/mctekk/chargify",
   "authors": [
     {
       "name": "Johannes",
