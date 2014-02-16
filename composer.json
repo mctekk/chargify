@@ -1,5 +1,5 @@
 {
-  "name": "johannez/chargify",
+  "name": "mctekk/chargify",
   "description": "Interact with the Chargify API v1",
   "license": "MIT",
   "type": "library",
@@ -8,6 +8,10 @@
     {
       "name": "Johannes",
       "email": "mail@2tabs.com"
+    },
+    {
+      "name": "Frangeris Peguero",
+      "email": "frangeris.20@gmail.com"
     }
   ],
   "require": {

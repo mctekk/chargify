@@ -1,7 +1,7 @@
 Chargify API
-===
+============
 
-This library provides you with functionality to interact with the
+This library is a fork from the original source [johannez/chargify](https://github.com/johannez/chargify) made by [@johannez](https://github.com/johannez), thanks a lot :D; this provides you with functionality to interact with the
 [Chargify](http://chargify.com/) payment platform. It's built according to
 the [Chargify API](http://docs.chargify.com/api-introduction) version 1.
 
